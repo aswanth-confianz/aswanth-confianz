@@ -5,7 +5,7 @@ I'm very passionate about computer science and software development, striving to
 
 [<img align="left" alt="aswanth-confianz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="aswanth-confianz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[![views](https://komarev.com/ghpvc/?username=aswanth-confianz&label=Profile%20views&color=fe75a9&style=flat)](https://github.com/nouraellm/)
+[![views](https://komarev.com/ghpvc/?username=aswanth-confianz&label=Profile%20views&color=fe75a9&style=flat)](https://github.com/aswanth-confian/)
 <br />
 
 [website]: https://www.confianzit.com/
