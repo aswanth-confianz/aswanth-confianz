@@ -1,6 +1,14 @@
 ### Hey there, I'm Aswanth 👋
-I'm very passionate about computer science and software development, striving to learn more everyday. 
 
+telescope I’m currently working on odoo 3rdparty apps development
+seedling I’m currently learning python django, nodejs, react
+dancers I’m looking to collaborate onpython projects
+mailbox How to reach me: aswanth.babu@outlook.com
+speech_balloon Ask me about ...
+
+I'm a Software Engineer from India interested in front-end web development, Python and maths. keep Optimized !!
+
+If you speak English and want to contact me - feel free. wink
 ### Connect with me:
 
 [<img align="left" alt="aswanth-confianz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
