@@ -19,15 +19,8 @@ If you speak English and want to contact me - feel free. 😉
 [<img align="left" alt="aswanth-confianz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [![views](https://komarev.com/ghpvc/?username=aswanth-confianz&label=Profile%20views&color=fe75a9&style=flat)](https://github.com/aswanth-confianz/)
 <br />
-  <img align="right" alt="GIF" src="https://github.com/kelvzxu/kelvzxu/blob/master/kelvzxu/kelvzxu.gif?raw=true" width="400" height="380" />
+<img align="right" alt="GIF" src="https://github.com/aswanth-confianz/aswanth-confianz/blob/main/me.gif?raw=true" width="400" height="380" />
   
-**Talking about Personal Stuffs:**
-
-- 💻 I'm currently working on project open source ERP :wink:;
-- 🌱 I’m currently learning ABAP and Flutter; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@ceokelvin12](https://twitter.com/ceokelvin12);
-- 📝[Resume](https://drive.google.com/)
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
@@ -41,8 +34,7 @@ If you speak English and want to contact me - feel free. 😉
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<img height="20" src="https://github.com/kelvzxu/kelvzxu/blob/master/kelvzxu/sapabap.jpeg">
-<img height="20" src="https://github.com/kelvzxu/kelvzxu/blob/master/kelvzxu/odoo_logo.png">
+<img height="20" src="https://github.com/aswanth-confianz/aswanth-confianz/blob/main/odoo_logo.png">
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
