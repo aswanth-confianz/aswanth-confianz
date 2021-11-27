@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate onpython projects
 - 📫 How to reach me: aswanth.babu@outlook.com
 - 💬 Ask me about ...
-
+<img align="right" alt="GIF" src="https://github.com/aswanth-confianz/aswanth-confianz/blob/main/me.gif?raw=true" width="400" height="380" />
 I'm a Software Engineer from India interested in front-end web development, Python and maths. keep Optimized !!
 
 
@@ -19,7 +19,7 @@ If you speak English and want to contact me - feel free. 😉
 [<img align="left" alt="aswanth-confianz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [![views](https://komarev.com/ghpvc/?username=aswanth-confianz&label=Profile%20views&color=fe75a9&style=flat)](https://github.com/aswanth-confianz/)
 <br />
-<img align="right" alt="GIF" src="https://github.com/aswanth-confianz/aswanth-confianz/blob/main/me.gif?raw=true" width="400" height="380" />
+
   
 
 **Languages and Tools:**  
