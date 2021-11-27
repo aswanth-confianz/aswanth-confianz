@@ -1,13 +1,13 @@
 ### Hey there 👋
 
 **Iam Aswanth** 
-
+<img align="right" alt="GIF" src="https://github.com/aswanth-confianz/aswanth-confianz/blob/main/me.gif?raw=true" width="400" height="380" />
 - 🔭 I’m currently working on odoo 3rdparty apps development
 - 🌱 I’m currently learning python django, nodejs, react
 - 👯 I’m looking to collaborate onpython projects
 - 📫 How to reach me: aswanth.babu@outlook.com
 - 💬 Ask me about ...
-<img align="right" alt="GIF" src="https://github.com/aswanth-confianz/aswanth-confianz/blob/main/me.gif?raw=true" width="400" height="380" />
+
 I'm a Software Engineer from India interested in front-end web development, Python and maths. keep Optimized !!
 
 
