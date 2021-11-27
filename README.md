@@ -34,16 +34,15 @@ If you speak English and want to contact me - feel free. 😉
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<img height="20" src="https://github.com/aswanth-confianz/aswanth-confianz/blob/main/odoo_logo.png">
+<code><img height="20" src="https://github.com/aswanth-confianz/aswanth-confianz/blob/main/odoo_logo.png"></code>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 python       22 hrs 15 mins   █████████████▓░░░░░░░░░░░   38.83 % 
 JavaScript   12 hrs 48 mins   ███████▒░░░░░░░░░░░░░░░░░   29.79 % 
-PHP          9  hrs 29 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.64 % 
-SAP ABAP     5  hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-JSON         3  hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+jQuery       3  hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+jQuery       3  hrs 29 mins   █████████████████░░░░░░░░   70.18 %
 ```
 [website]: https://www.confianzit.com/
 [twitter]: https://twitter.com/iam_aswanth
