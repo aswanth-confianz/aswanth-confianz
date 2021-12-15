@@ -15,9 +15,9 @@ If you speak English and want to contact me - feel free. 😉
 
 ### Connect with me:
 
-[<img align="left" alt="aswanth-confianz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="aswanth-confianz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[![views](https://komarev.com/ghpvc/?username=aswanth-confianz&label=Profile%20views&color=fe75a9&style=flat)](https://github.com/aswanth-confianz/)
+[<img align="left" alt="gh-aswanth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="gh-aswanth | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![views](https://komarev.com/ghpvc/?username=gh-aswanth&label=Profile%20views&color=fe75a9&style=flat)](https://github.com/gh-aswanth/)
 <br />
 
   
@@ -29,7 +29,7 @@ If you speak English and want to contact me - feel free. 😉
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://github.com/aswanth-confianz/aswanth-confianz/blob/main/odoo_logo.png"></code>
+<code><img height="20" src="https://github.com/gh-aswanth/gh-aswanth/blob/main/odoo_logo.png"></code>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
@@ -39,17 +39,17 @@ JavaScript   04  hrs 48 mins  ███████▒░░░░░░░░�
 jQuery       03  hrs 29 mins  ███░░░░░░░░░░░░░░░░░░░░░░  03.18 %
 PostgreSQL   16  hrs 29 mins  █████████████████░░░░░░░░  70.18 %
 ```
-[website]: https://www.confianzit.com/
+[website]: https://www.linkedin.com/in/iamaswanth/
 [twitter]: https://twitter.com/iam_aswanth
 [instagram]: https://instagram.com/__iam_aswanth
 
 [1]: https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail
 [2]: https://img.shields.io/badge/LinkedIn-252422.svg?style=for-the-badge&logo=linkedin&logoColor=blue
 
-[![Email][1]](mailto:aswanth.babu@confianzit.biz)
+[![Email][1]](mailto:aswanth.babu@outlook.com)
 [![LinkedIn][2]](https://www.linkedin.com/in/iamaswanth)
 
 <hr>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=aswanth-confianz&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswanth-confianz&layout=compact&card_width=250&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gh-aswanth&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-aswanth&layout=compact&card_width=250&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
 
