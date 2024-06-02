@@ -49,14 +49,14 @@ If you speak English and want to contact me - feel free. 😉
 </p>
 
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-python       09  hrs 15 mins  █████████████▓░░░░░░░░░░░  38.83 % 
-JavaScript   04  hrs 48 mins  ███████▒░░░░░░░░░░░░░░░░░  29.79 % 
-jQuery       03  hrs 29 mins  ███░░░░░░░░░░░░░░░░░░░░░░  03.18 %
-PostgreSQL   16  hrs 29 mins  █████████████████░░░░░░░░  70.18 %
-```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <a href="https://github.com/gh-aswanth">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gh-aswanth&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gh-aswanth&theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    
 [website]: https://www.linkedin.com/in/iamaswanth/
 [twitter]: https://twitter.com/iam_aswanth
 [instagram]: https://instagram.com/__iam_aswanth
@@ -67,16 +67,7 @@ PostgreSQL   16  hrs 29 mins  ████████████████�
 [![Email][1]](mailto:aswanth.babu@outlook.com)
 [![LinkedIn][2]](https://www.linkedin.com/in/iamaswanth)
 
-<hr>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/gh-aswanth">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gh-aswanth&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gh-aswanth&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gh-aswanth&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gh-aswanth&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gh-aswanth&theme=2077" height="180em" />
-</div>
+
 
 
 
