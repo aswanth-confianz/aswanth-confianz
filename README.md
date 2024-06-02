@@ -59,9 +59,9 @@ If you speak English and want to contact me - feel free. 😉
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
-  <a href="https://github.com/gh-aswanth">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gh-aswanth&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gh-aswanth&theme=2077" height="180em" />
+<a href="https://github.com/gh-aswanth">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gh-aswanth&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gh-aswanth&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     
